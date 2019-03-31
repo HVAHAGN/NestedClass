@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedClass", "NestedClass\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested_02", "Nested_02\Nested_02.csproj", "{7037F8D0-A6AB-4BBE-9DE9-AA3E4A12AF4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested_03", "Nested_03\Nested_03.csproj", "{F2F854A4-6277-4767-BF0F-58DF2DAD29F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested_04", "Nested_04\Nested_04.csproj", "{FF647C52-BE50-4E59-8EA5-9A8D6494CB12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7037F8D0-A6AB-4BBE-9DE9-AA3E4A12AF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7037F8D0-A6AB-4BBE-9DE9-AA3E4A12AF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7037F8D0-A6AB-4BBE-9DE9-AA3E4A12AF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F854A4-6277-4767-BF0F-58DF2DAD29F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F854A4-6277-4767-BF0F-58DF2DAD29F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F854A4-6277-4767-BF0F-58DF2DAD29F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F854A4-6277-4767-BF0F-58DF2DAD29F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF647C52-BE50-4E59-8EA5-9A8D6494CB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF647C52-BE50-4E59-8EA5-9A8D6494CB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF647C52-BE50-4E59-8EA5-9A8D6494CB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF647C52-BE50-4E59-8EA5-9A8D6494CB12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
