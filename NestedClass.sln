@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested_05", "Nested_05\Nest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested_06", "Nested_06\Nested_06.csproj", "{86F8088A-90D6-491F-A7A1-26FD61CB6EC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested_07", "Nested_07\Nested_07.csproj", "{75D384DC-3F4D-4567-8488-143EF1B0337C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{86F8088A-90D6-491F-A7A1-26FD61CB6EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86F8088A-90D6-491F-A7A1-26FD61CB6EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86F8088A-90D6-491F-A7A1-26FD61CB6EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D384DC-3F4D-4567-8488-143EF1B0337C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D384DC-3F4D-4567-8488-143EF1B0337C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D384DC-3F4D-4567-8488-143EF1B0337C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D384DC-3F4D-4567-8488-143EF1B0337C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
